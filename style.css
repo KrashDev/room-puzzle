@@ -1,0 +1,23 @@
+body {
+  /* background-image: url("images/concrete-texture.png"); */
+  background-image: url("images/agsquare.png");
+  /* background-image: url("images/p5.png"); */
+  /* background: linear-gradient(to right, #b06ab3, #4568dc); */
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+/* --------- tool section -----------*/
+
+.main {
+  text-align: center;
+  overflow: hidden;
+  top: 110px;
+  position: relative;
+  margin-top: 3%;
+  margin: 0 auto;
+  background: linear-gradient(to right, #b06ab3, #4568dc);
+  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+  height: 400px;
+  width: 800px;
+}
